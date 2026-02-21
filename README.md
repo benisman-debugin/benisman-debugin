@@ -1,7 +1,5 @@
 # Benismann (benisman-debugin) | IT Programmer
 
-> ðŸ’¡ *Dark â€¢ Futuristik â€¢ Clean Code*
-
 Selamat datang di **GitHub Portfolio** saya. Repository ini berisi ringkasan kemampuan, teknologi, dan project yang pernah saya kerjakan di bidang **IT Programming & Web Development**.
 
 ---
