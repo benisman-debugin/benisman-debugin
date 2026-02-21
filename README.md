@@ -1,4 +1,4 @@
-# ðŸ‘¨â€ðŸ’» Benismann (benisman-debugin) | IT Programmer
+# Benismann (benisman-debugin) | IT Programmer
 
 > ðŸ’¡ *Dark â€¢ Futuristik â€¢ Clean Code*
 
@@ -6,14 +6,14 @@ Selamat datang di **GitHub Portfolio** saya. Repository ini berisi ringkasan kem
 
 ---
 
-## ðŸ§‘â€ðŸš€ Tentang Saya
+## Tentang Saya
 Saya adalah seorang **IT Programmer** dengan pengalaman membangun aplikasi web menggunakan **PHP Native dan MySQL**. Terbiasa menangani logika backend, database terpisah, serta integrasi data dalam satu sistem terpusat.
 
 Saya percaya bahwa kode yang baik harus **rapi, efisien, mudah dikembangkan, dan siap digunakan di dunia nyata**.
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benisman-debugin&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -23,7 +23,7 @@ Saya percaya bahwa kode yang baik harus **rapi, efisien, mudah dikembangkan, dan
 
 ---
 
-## ðŸš€ Skills
+## Skills
 - Web Programming (Backend-Focused)
 - PHP Native
 - MySQL Database Design
@@ -34,7 +34,7 @@ Saya percaya bahwa kode yang baik harus **rapi, efisien, mudah dikembangkan, dan
 
 ---
 
-## ðŸ§  Tech Stack
+## Tech Stack
 **Backend**
 - PHP (Native)
 - MySQL
@@ -51,10 +51,10 @@ Saya percaya bahwa kode yang baik harus **rapi, efisien, mudah dikembangkan, dan
 
 ---
 
-## ðŸ“‚ Featured Projects
+## Featured Projects
 
-### ðŸ”¹ Multi App Landing Page
-ðŸ“Œ *Read-only landing page yang menampilkan data dari beberapa aplikasi dengan database terpisah.*
+### Multi App Landing Page
+*Read-only landing page yang menampilkan data dari beberapa aplikasi dengan database terpisah.*
 
 **Highlight:**
 - Integrasi multi database
@@ -65,8 +65,8 @@ Saya percaya bahwa kode yang baik harus **rapi, efisien, mudah dikembangkan, dan
 
 ---
 
-### ðŸ”¹ Web Application System
-ðŸ“Œ *Aplikasi web custom dengan sistem terstruktur dan aman.*
+### Web Application System
+*Aplikasi web custom dengan sistem terstruktur dan aman.*
 
 **Highlight:**
 - CRUD System
@@ -77,7 +77,7 @@ Saya percaya bahwa kode yang baik harus **rapi, efisien, mudah dikembangkan, dan
 
 ---
 
-## ðŸ§© Cara Saya Bekerja
+## Cara Saya Bekerja
 - Fokus pada solusi, bukan hanya fitur
 - Clean & readable code
 - Struktur project jelas
@@ -85,14 +85,14 @@ Saya percaya bahwa kode yang baik harus **rapi, efisien, mudah dikembangkan, dan
 
 ---
 
-## ðŸŽ¯ Goals
+## Goals
 - Menjadi **Full-Stack Developer** yang solid
 - Membangun sistem modern dan efisien
 - Berkontribusi pada project open-source
 
 ---
 
-## ðŸ“¬ Kontak
+## Kontak
 - **Nama:** Benismann
 - **GitHub:** https://github.com/benisman-debugin
 - **Role:** IT Programmer / Web Developer
